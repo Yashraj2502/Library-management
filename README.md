@@ -126,9 +126,3 @@ _[N/A for now]_
 - [@Tejasgavale07](https://github.com/Tejasgavale07)
 
 ---
-
-**Note:** This was one of my first major software projects during undergraduate studies. While the code may not follow all current best practices, it represents an important milestone in my development journey and demonstrates foundational software engineering concepts.
-
-⭐ If you find this project helpful for learning purposes, please consider giving it a star!
-
-*Developed as part of undergraduate coursework - 2021*
